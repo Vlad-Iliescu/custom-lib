@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1206L025YR
+F https://datasheet.lcsc.com/szlcsc/1810261812_Littelfuse-1206L025YR_C99561.pdf
+$ENDCMP
+#
+$CMP C10418
+F https://datasheet.lcsc.com/szlcsc/1811131820_Jing-Extension-of-the-Electronic-Co-C10418_C10418.pdf
+$ENDCMP
+#
+$CMP C167321
+F https://datasheet.lcsc.com/szlcsc/1811101520_Jing-Extension-of-the-Electronic-Co-C167321_C167321.pdf
+$ENDCMP
+#
+$CMP CH340E
+F https://cdn.sparkfun.com/datasheets/Dev/Arduino/Other/CH340DS1.PDF
+$ENDCMP
+#
+$CMP FH12-24S-0.5SH(55)
+F https://datasheet.lcsc.com/szlcsc/Hirose-HRS-FH12-24S-0-5SH-55_C202112.pdf
+$ENDCMP
+#
+$CMP Mini_USB
+F https://datasheet.lcsc.com/szlcsc/1811131820_Jing-Extension-of-the-Electronic-Co-C10418_C10418.pdf
+$ENDCMP
+#
+#End Doc Library
