@@ -41,6 +41,7 @@ Reference part numbers are LCSC.
 13. Generic SOT-523
 14. Tantalum Capacitor TAJB107M010RNJ (C7196)
 15. SMD Card Sockets Connector TF-01A (C91145)
+16. 433MHz Crystall (C2280)
 
 ## 3D Models
 1. AB2_MSOP10.wrl

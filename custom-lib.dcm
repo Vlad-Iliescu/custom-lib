@@ -20,8 +20,8 @@ $CMP FH12-24S-0.5SH(55)
 F https://datasheet.lcsc.com/szlcsc/Hirose-HRS-FH12-24S-0-5SH-55_C202112.pdf
 $ENDCMP
 #
-$CMP Mini_USB
-F https://datasheet.lcsc.com/szlcsc/1811131820_Jing-Extension-of-the-Electronic-Co-C10418_C10418.pdf
+$CMP TPS3839
+F https://datasheet.lcsc.com/szlcsc/2001181531_Texas-Instruments-TPS3839G33DBZR_C485802.pdf
 $ENDCMP
 #
 #End Doc Library
